@@ -37,8 +37,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/simpfun || Github
-  # fas fa-envelope: mailto:admin@simpfun.eu.org || Email
+  # fab fa-github: https://github.com/kiwow || Github
+  # fas fa-envelope: mailto:admin@kiwow.top || Email
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -631,7 +631,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/simpfun
+      link: https://github.com/kiuow
   card_announcement:
     enable: true
     content: 哈哈哈，这里什么都没有
