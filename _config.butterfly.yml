@@ -315,7 +315,7 @@ valine:
 waline:
   serverURL: https://waline.simpfun.eu.org/
   bg: # waline background
-  visitor: true
+  visitor: false
   option:
 
 # utterances
@@ -340,7 +340,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://twikoo.simpfun.eu.org/
+  envId: https://twikoo.simpfun.top/
   region: ap-shanghai
   visitor: true
   option:
