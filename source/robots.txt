@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://blog.simpfun.top/sitemap.xml
+Sitemap: https://blog.simpfun.top/baidusitemap.xml
